@@ -30,6 +30,9 @@ Interesado en el uso de inteligencia artificial como apoyo en procesos técnicos
 
 ---
 
+### 🔍 Consola de auditoría de seguridad
+<img src="./assets/terminal-pequeno.svg" alt="Ayuso Kali Linux Security Terminal" />
+
 
 ### 🧠 Stack Tecnológico
 <br />
