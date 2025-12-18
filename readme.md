@@ -22,7 +22,6 @@
 ---
 
 
-
 ### 👤 Perfil Profesional
 
 Perfil orientado al **desarrollo web seguro**, con especial atención a la **ciberseguridad y al frontend**. Trabajo en la creación y análisis de aplicaciones web priorizando la seguridad, la calidad del código y la adopción de estándares reconocidos. 
@@ -30,7 +29,7 @@ Interesado en el uso de inteligencia artificial como apoyo en procesos técnicos
 
 ---
 
-### 🔍 Consola de auditoría de seguridad
+### 🔍 Auditorías de seguridad
 <img src="./assets/terminal-pequeno.svg" alt="Ayuso Kali Linux Security Terminal" />
 
 
@@ -38,8 +37,6 @@ Interesado en el uso de inteligencia artificial como apoyo en procesos técnicos
 <br />
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,kali,figma,wordpress,docker,bootstrap,git,npm&perline=14" width="100%" /> </div>
 <br />
-
-
 
 
 ### 📊 Estadísticas de GitHub
