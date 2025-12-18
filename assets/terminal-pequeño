@@ -1,0 +1,65 @@
+<svg width="90%" height="380" viewBox="0 0 1200 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Ayuso Kali Linux AppSec Terminal">
+  <defs>
+    <style>
+      .terminal { fill: #020617; stroke: #1f2937; stroke-width: 1; }
+      .header { fill: #020617; }
+      .btn-red { fill: #ef4444; }
+      .btn-yellow { fill: #facc15; }
+      .btn-green { fill: #22c55e; }
+      .text { font-family: 'JetBrains Mono', monospace; font-size: 14px; fill: #e5e7eb; }
+      .prompt { fill: #22c55e; }
+      .path { fill: #9ca3af; }
+      .info { fill: #60a5fa; }
+      .ok { fill: #22c55e; }
+      .cursor { fill: #22c55e; animation: blink 1.2s infinite; }
+      @keyframes blink { 0%, 50% { opacity: 1; } 51%, 100% { opacity: 0; } }
+    </style>
+  </defs>
+
+  <!-- TERMINAL WINDOW -->
+  <rect x="40" y="24" width="1120" height="332" rx="16" class="terminal"></rect>
+
+  <!-- HEADER -->
+  <rect x="40" y="24" width="1120" height="46" rx="16" class="header"></rect>
+  <circle cx="70" cy="47" r="6" class="btn-red"></circle>
+  <circle cx="95" cy="47" r="6" class="btn-yellow"></circle>
+  <circle cx="120" cy="47" r="6" class="btn-green"></circle>
+
+  <!-- LÍNEAS DE COMANDOS Y OUTPUT -->
+  <text x="80" y="100" class="text">
+    <tspan class="prompt">Ayuso@kali</tspan><tspan class="path">:~$ </tspan> nmap -sC -sV --open ayusox.github.io
+  </text>
+  <text x="80" y="130" class="text info" opacity="0">
+    [+] Scanning open services and versions...
+    <animate attributeName="opacity" begin="1.6s" dur="0.3s" from="0" to="1" fill="freeze"></animate>
+  </text>
+  <text x="80" y="160" class="text" opacity="0">
+    <tspan class="prompt">Ayuso@kali</tspan><tspan class="path">:~$ </tspan> nikto -h https://ayusox.github.io/portfolio/
+    <animate attributeName="opacity" begin="3s" dur="0.3s" from="0" to="1" fill="freeze"></animate>
+  </text>
+  <text x="80" y="190" class="text info" opacity="0">
+    [+] Checking common misconfigurations...
+    <animate attributeName="opacity" begin="4.4s" dur="0.3s" from="0" to="1" fill="freeze"></animate>
+  </text>
+  <text x="80" y="220" class="text" opacity="0">
+    <tspan class="prompt">Ayuso@kali</tspan><tspan class="path">:~$ </tspan> owasp-zap-baseline.py -t https://ayusox.github.io/portfolio/
+    <animate attributeName="opacity" begin="5.8s" dur="0.3s" from="0" to="1" fill="freeze"></animate>
+  </text>
+  <text x="80" y="250" class="text info" opacity="0">
+    [+] Running passive OWASP security checks...
+    <animate attributeName="opacity" begin="7.2s" dur="0.3s" from="0" to="1" fill="freeze"></animate>
+  </text>
+  <text x="80" y="280" class="text" opacity="0">
+    <tspan class="prompt">Ayuso@kali</tspan><tspan class="path">:~$ </tspan> npm run security-audit
+    <animate attributeName="opacity" begin="8.6s" dur="0.3s" from="0" to="1" fill="freeze"></animate>
+  </text>
+  <text x="80" y="310" class="text" opacity="0">
+    <tspan class="prompt">Ayuso@kali</tspan><tspan class="path">:~$ </tspan> gobuster dir -u https://ayusox.github.io/ -w wordlist.txt
+    <animate attributeName="opacity" begin="10s" dur="0.3s" from="0" to="1" fill="freeze"></animate>
+  </text>
+  <text x="80" y="340" class="text ok" opacity="0">
+    ✔ Audit completed — no critical vulnerabilities found
+    <animate attributeName="opacity" begin="11.5s" dur="0.3s" from="0" to="1" fill="freeze"></animate>
+    <tspan class="cursor">▌</tspan>
+  </text>
+</svg>
