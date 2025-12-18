@@ -29,32 +29,30 @@ Interesado en el uso de inteligencia artificial como apoyo en procesos técnicos
 ---
 
 ### 🔍 Auditorías de seguridad
-<img src="./assets/terminal-pequeno.svg" alt="Ayuso Kali Linux Security Terminal" />
+
+<div align="center">
+  <img src="./assets/terminal-pequeno.svg" alt="Ayuso Kali Linux Security Terminal" />
+</div>
+
+
 
 ---
 
-### 🧠 Stack Tecnológico
-<br />
-<div align="center"> <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,kali,figma,wordpress,docker,bootstrap,git,npm&perline=14" width="100%" /> </div>
-<br />
-
----
-
-### 📊 Estadísticas de GitHub
+### 📊🧠 Estadísticas y stack
 
 <div align="center">
   <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ayusox&custom_title=Ayuso's+GitHub+Stats&show_icons=true&theme=tokyonight&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff&bg_color=0d1117&hide_border=true" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusox&layout=compact&theme=tokyonight&title_color=00f2ff&text_color=ffffff&bg_color=0d1117&hide_border=true" />
 </div>
 
+
+<br />
+<div align="center"> <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,kali,figma,wordpress,docker,bootstrap,git,npm&perline=14" width="100%" /> </div>
+<br/>
+
 <div align="center">
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  </picture>
-</div>
+  
+
 
 ---
 
