@@ -4,9 +4,8 @@
   
   <p><b>Construyendo experiencias digitales eficientes y seguras.</b></p>
   
- 
-  
-  <img src="https://media.giphy.com/media/IMOTcqOtaEkXiBonLU/giphy.gif" width="250" alt="Hacker Animation">
+
+<img src="assets/elgif.gif" width="250" alt="Hacker Animation">
   
 
 
