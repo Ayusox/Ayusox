@@ -31,12 +31,14 @@ Interesado en el uso de inteligencia artificial como apoyo en procesos técnicos
 ### 🔍 Auditorías de seguridad
 <img src="./assets/terminal-pequeno.svg" alt="Ayuso Kali Linux Security Terminal" />
 
+---
 
 ### 🧠 Stack Tecnológico
 <br />
 <div align="center"> <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,kali,figma,wordpress,docker,bootstrap,git,npm&perline=14" width="100%" /> </div>
 <br />
 
+---
 
 ### 📊 Estadísticas de GitHub
 
