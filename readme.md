@@ -24,7 +24,7 @@
 ### 👤 Perfil Profesional
 
 Perfil orientado al **desarrollo web seguro**, con especial atención a la **ciberseguridad y al frontend**. Trabajo en la creación y análisis de aplicaciones web priorizando la seguridad, la calidad del código y la adopción de estándares reconocidos. 
-Interesado en el uso de inteligencia artificial como apoyo en procesos técnicos.
+Interesado en el uso de inteligencia artificial como apoyo en procesos técnicos. Si es necesario, puedo trabajar en proyectos fullstack
 
 ---
 
