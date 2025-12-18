@@ -12,8 +12,8 @@
 
   <p>
     <a href="https://ayusox.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-0056b3?style=for-the-badge&logo=react&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/tu-usuario" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:tu-email@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/ayuso-dev" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:mariojuradoayuso@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </p>
 </div>
 
