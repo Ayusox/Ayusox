@@ -40,10 +40,12 @@ Interesado en el uso de inteligencia artificial como apoyo en procesos técnicos
 
 ### 📊🧠 Estadísticas y stack
 
-<div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ayusox&custom_title=Ayuso's+GitHub+Stats&show_icons=true&theme=tokyonight&title_color=00f2ff&icon_color=00f2ff&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayusox&layout=compact&theme=tokyonight&title_color=00f2ff&text_color=ffffff&bg_color=0d1117&hide_border=true" />
-</div>
+<p align="center">
+  <a href="https://github.com/Ayusox">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ayusox&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ayusox&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
 
 <br />
